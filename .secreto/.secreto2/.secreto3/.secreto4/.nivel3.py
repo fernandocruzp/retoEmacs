@@ -72,6 +72,7 @@ codigo_nivel4 = """\
     (with-temp-file ruta
       (insert "Correo: cruzfernando@ciencias.unam.mx
 ")
+ (insert "Modifica el archivo init.el para configurar el servidor stmp para enviar correo después ejecuta M-x load-file RET init.el RET")
       (insert "Envía[ un correo desde] Emacs con el asunto 'LOgrado' y tu[] nombre completo.
 ")))
 )
