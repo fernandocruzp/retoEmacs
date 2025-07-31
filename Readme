@@ -1,0 +1,7 @@
+Bienvenido a captura la bandera emacs.
+
+Todos los archivos que debes crear se crean en este directorio y una vez iniciado el juego no puedes salir de emacs.
+
+inicia el juego con el siguiente comando
+
+emacs -q -l init.el
